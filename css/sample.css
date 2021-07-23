@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700");*{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box}#welcome{display:-ms-grid;display:grid;-ms-grid-columns:350px 1fr;grid-template-columns:350px 1fr;width:100%;height:100vh}#welcome .welcome-menu{background:white;width:400px;padding:30px}#welcome .welcome-jumbo{background:red;background-color:red;width:100%;height:auto}
+/*# sourceMappingURL=sample.css.map */
